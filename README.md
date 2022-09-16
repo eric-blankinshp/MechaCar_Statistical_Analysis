@@ -6,4 +6,4 @@ AutosRUS is reviewing statistical data points of the manufacturing process to fi
 
 # Linear Regression to Predict
 ![alt text](![LinearRegressiontoPredict](https://user-images.githubusercontent.com/103863575/190531749-6e40c695-536b-4c80-82b4-9dbdae7f4815.png)
-)
+
